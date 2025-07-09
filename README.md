@@ -27,22 +27,11 @@ Modern frontend implementation for Supreme Group corporate website.
 
 [Detailed explanation of architecture]
 
-## Responsive Strategy
-
-[Mobile-first approach details]
-
-## Performance Optimizations
-
-[List of implemented optimizations]
-
-## Accessibility
-
-[WCAG compliance details]
-
-## Testing
-
-[Testing strategy if implemented]
 
 ## Deployment
 
-[Instructions for deployment]
+You have a GitHub account.
+
+Your project (e.g., a Next.js or other frontend app) is pushed to a Git repository.
+
+You have a Vercel account: https://vercel.com
